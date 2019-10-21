@@ -1,0 +1,238 @@
+! Version: 20170602000
+! Title:  baidu-lite[20170602000]
+! Last modified: 2017/04/27 18:09 +0800
+! Expires: 1 days (update frequency)
+baidu.com#$#*{font-family:Helvetica,"Microsoft Yahei UI"}
+baidu.com#$#::-webkit-scrollbar{width:6px;height:10px;background-color:rgba(0,0,0,0)}
+baidu.com#$#::-webkit-scrollbar-track{background-color:rgba(0,0,0,.1)}
+baidu.com#$#::-webkit-scrollbar-thumb{border-radius:3px;background-color:rgba(0,0,0,.2);transition:all .4s ease;-moz-transition:all .4s ease;-webkit-transition:all .4s ease;-o-transition:all .4s ease}
+baidu.com#$#::-webkit-scrollbar-thumb:hover{border-radius:3px;background-color:rgba(0,0,0,.4);transition:all .4s ease;-moz-transition:all .4s ease;-webkit-transition:all .4s ease;-o-transition:all .4s ease}
+baidu.com#$#.animated{-webkit-animation-duration:1s;animation-duration:1s;animation-fill-mode:both}
+baidu.com#$#@-webkit-keyframes fadeInUp{from{opacity:0;-webkit-transform:translate3d(0,100%,0);transform:translate3d(0,100%,0)}to{opacity:1;-webkit-transform:none;transform:none}}
+baidu.com#$#@keyframes fadeInUp{from{opacity:0;-webkit-transform:translate3d(0,100%,0);transform:translate3d(0,100%,0)}to{opacity:1;-webkit-transform:none;transform:none}}
+baidu.com#$#.fadeInUp{-webkit-animation-name:fadeInUp;animation-name:fadeInUp}
+baidu.com#$#@-webkit-keyframes bounceInRight{60%,75%,90%,from,to{-webkit-animation-timing-function:cubic-bezier(.215,.61,.355,1);animation-timing-function:cubic-bezier(.215,.61,.355,1)}from{opacity:0;-webkit-transform:translate3d(3000px,0,0);transform:translate3d(3000px,0,0)}60%{opacity:1;-webkit-transform:translate3d(-25px,0,0);transform:translate3d(-25px,0,0)}75%{-webkit-transform:translate3d(10px,0,0);transform:translate3d(10px,0,0)}90%{-webkit-transform:translate3d(-5px,0,0);transform:translate3d(-5px,0,0)}to{-webkit-transform:none;transform:none}}
+baidu.com#$#@keyframes bounceInRight{60%,75%,90%,from,to{-webkit-animation-timing-function:cubic-bezier(.215,.61,.355,1);animation-timing-function:cubic-bezier(.215,.61,.355,1)}from{opacity:0;-webkit-transform:translate3d(3000px,0,0);transform:translate3d(3000px,0,0)}60%{opacity:1;-webkit-transform:translate3d(-25px,0,0);transform:translate3d(-25px,0,0)}75%{-webkit-transform:translate3d(10px,0,0);transform:translate3d(10px,0,0)}90%{-webkit-transform:translate3d(-5px,0,0);transform:translate3d(-5px,0,0)}to{-webkit-transform:none;transform:none}}
+baidu.com#$#.bounceInRight{-webkit-animation-name:bounceInRight;animation-name:bounceInRight}
+baidu.com#$#@-webkit-keyframes bounceInUp{60%,75%,90%,from,to{-webkit-animation-timing-function:cubic-bezier(.215,.61,.355,1);animation-timing-function:cubic-bezier(.215,.61,.355,1)}from{opacity:0;-webkit-transform:translate3d(0,3000px,0);transform:translate3d(0,3000px,0)}60%{opacity:1;-webkit-transform:translate3d(0,-20px,0);transform:translate3d(0,-20px,0)}75%{-webkit-transform:translate3d(0,10px,0);transform:translate3d(0,10px,0)}90%{-webkit-transform:translate3d(0,-5px,0);transform:translate3d(0,-5px,0)}to{-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)}}
+baidu.com#$#a{text-decoration:none;margin-bottom:2px}
+baidu.com#$#.c-showurl:hover{text-decoration:none;border:none;opacity:.8;transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$#.res-gap-right16:hover{border-bottom:#4879BD 1.2px solid}
+baidu.com#$#.c-showurl{transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$#.c-tip-arrow:hover{text-decoration:none;border:none}
+baidu.com#$#.c-default a{text-decoration:none;border:none}
+baidu.com#$#.c-gap-bottom a:hover{text-decoration:underline}
+baidu.com#$#.op_dict3_morelink a:hover{text-decoration:underline}
+baidu.com#$#.c-btn:hover{text-decoration:none!important}
+baidu.com#$#td a:hover{text-decoration:underline}
+baidu.com#$#em{text-decoration:none!important}
+baidu.com#$##s_wrap{display:none}
+baidu.com#$#.s-top-nav{display:none}
+baidu.com#$##s_ctner_menus{display:none}
+baidu.com#$##s_menu_gurd{display:none}
+baidu.com#$##s_strpx_span1{display:none}
+baidu.com#$##ftCon{display:none}
+baidu.com#$##bottom_container{display:none}
+baidu.com#$##lg{background-repeat:no-repeat;background-position:center;height:70px;padding-top:150px}
+baidu.com#$##lg img{display:none}
+baidu.com#$##lg a{display:none}
+baidu.com#$##head_wrapper{padding-bottom:0}
+baidu.com#$##s_form_wrapper{margin-top:auto}
+baidu.com#$##s_lg_img{display:none}
+baidu.com#$#.s_ipt_wr{border:none;border-radius:3px;transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;background-position:100%!important;z-index:-1;width:600px;height:39px;font-family:Helvetica,"Microsoft Yahei UI";padding-top:4px}
+baidu.com#$#.s_ipt{font-family:Helvetica,"Microsoft Yahei UI"}
+baidu.com#$#.s_ipt_wr:hover{border:none;border-radius:2px;transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$#.ipthover{transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$#.iptfocus{box-shadow:0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12)}
+baidu.com#$#.s_btn{width:32px;height:32px;border-radius:50%;font-size:0;border:none;box-shadow:none;margin-left:0;z-index:100;transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;margin-top:0;opacity:0}
+baidu.com#$#.s_btn:hover{opacity:.5;background:rgba(0,0,0,0);border:none;box-shadow:none;transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$#.s_btn_wr{width:32px;height:32px;border-radius:50%;font-size:0;background-color:rgba(0,0,0,0);background-position:50%;border:none;box-shadow:none;margin-left:5px;z-index:100;transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;margin-top:6px}
+baidu.com#$#.s_btn_wr:hover{opacity:.5;background:rgba(0,0,0,0);border:none;box-shadow:none;transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$#.self-btn{display:none}
+baidu.com#$#.btnhover{opacity:.5;background-color:rgba(0,0,0,0)!important;border:none!important;box-shadow:none;transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$#.hint_toprq_tips{margin-bottom:12px}
+baidu.com#$#.s_form{height:75px;padding-top:10px}
+baidu.com#$##s_tab{padding:87px 0 0 121px}
+baidu.com#$##head.s_down{box-shadow:none}
+baidu.com#$#.bdsug{top:50px!important;box-shadow:0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);border:none;border-radius:0;font-family:Helvetica,"Microsoft Yahei UI";width:599px!important}
+baidu.com#$#.bgsug li{font-family:Helvetica,"Microsoft Yahei UI"!important;width:100%!important;line-height:32px!important}
+baidu.com#$#.bgsug ul li{line-height:32px!important}
+baidu.com#$#.bdsug-overflow{font-family:Helvetica,"Microsoft Yahei UI"!important;width:583px!important}
+baidu.com#$##quickdelete{top:5px!important;opacity:.5}
+baidu.com#$##kw_tip{font-family:Helvetica,"Microsoft Yahei UI Light"}
+baidu.com#$##result_logo{background-image:url(http://7xt3k7.com2.z0.glb.clouddn.com/dmlg.svg);background-repeat:no-repeat;background-position:center;width:101px;height:33px;margin-top:9px}
+baidu.com#$##result_logo img{display:none;visibility:hidden}
+baidu.com#$##result_logo a img{display:none;visibility:hidden}
+baidu.com#$#.c-container{line-height:1.65}
+baidu.com#$##rs{background-color:rgba(0,0,0,0)!important}
+baidu.com#$#.c-border{-webkit-box-shadow:0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);box-shadow:0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);border-radius:2px;border:none;padding:20px;transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$#.c-border:hover{box-shadow:0 3px 10px rgba(0,0,0,.16),0 3px 10px rgba(0,0,0,.23);transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$#.c-tabs-nav{border:none;border-radius:2px 2px 0 0;transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$#.c-tabs-nav-movetop{margin-left:-20px;margin-right:-20px;margin-top:-20px;transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$#.c-tabs-nav-selected{border-top:none!important;border-left:none!important;border-right:none!important;transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$#.c-tabs-nav-sep{display:none!important}
+baidu.com#$##page a{height:34px;border-radius:2px;border:none!important;background-color:rgba(0,0,0,0);transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$##page a:hover{transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$##page a .pc:hover{transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$##page strong{height:34px;border-radius:2px;position:relative;top:-2px;transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$##page strong .pc{line-height:34px;transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$#.fk{display:none!important}
+baidu.com#$#.pc{border:none!important;height:35px;transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$#.pc:hover{transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:background-color 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$##s_tab a{width:59px;line-height:44px}
+baidu.com#$##s_tab b{width:59px;line-height:44px}
+baidu.com#$##s_tab{padding-bottom:8px;padding-top:89px}
+baidu.com#$#.c-icon-tieba{background-repeat:no-repeat;background-position:center}
+baidu.com#$#.toindex{display:none}
+baidu.com#$##u .pf{background-repeat:no-repeat;background-position:center;font-size:0;padding:14px;opacity:.8;-moz-transition:all .3s ease;-webkit-transition:all .3s ease;-o-transition:all .3s ease;padding-top:18px;padding-bottom:10px}
+baidu.com#$##u .pf:hover{opacity:1;-moz-transition:all .3s ease;-webkit-transition:all .3s ease;-o-transition:all .3s ease}
+baidu.com#$#.pf .c-icon{display:none!important}
+baidu.com#$#.c-icon-triangle-down{display:none}
+baidu.com#$#.bdpfmenu{box-shadow:0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12);border-radius:2px!important;border:none;transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;margin-left:-10px;margin-top:-17px;z-index:8888!important}
+baidu.com#$#.bdpfmenu a:hover{transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$#.bdnuarrow{display:none!important}
+baidu.com#$#.setpref{border-radius:2px 2px 0 0;transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$#.setpref:hover{transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$##u .lb{padding:23px;border-radius:50px;font-size:0;position:absolute;right:50px;top:3800%;background-repeat:no-repeat;background-position:center;box-shadow:rgba(0,0,0,.156863) 0 3px 10px,rgba(0,0,0,.227451) 0 3px 10px;transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$##u .lb:hover{transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$##u .lb:active{box-shadow:0 10px 30px rgba(0,0,0,.19),0 6px 10px rgba(0,0,0,.23);transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$#.tang-foreground{border-radius:2px;box-shadow:0 19px 60px rgba(0,0,0,.3),0 15px 20px rgba(0,0,0,.22)}
+baidu.com#$##s_upfunc_menus{display:none}
+baidu.com#$##bg{background-color:#FFF!important;border:none;border-radius:3px;background:#FFF;transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;background-position:100%!important;z-index:-1;width:600px;height:39px;font-family:Helvetica,"Microsoft Yahei UI";padding-top:5px!important}
+baidu.com#$#.s_ipt{border:0!important;height:20px!important;border-radius:2px;width:586px!important}
+baidu.com#$#.nobg_s_fm_hover{border:0!important}
+baidu.com#$#.nobg_s_fm_focus{border:0!important;border-top:0 solid #fff!important;border-bottom:0 solid #fff!important;border-left:0 solid #fff!important;border-right:1px solid #38f}
+baidu.com#$#.s-title-image{border:none!important;border-top:0 solid #fff!important;border-bottom:0 solid #fff!important;border-left:0 solid #fff!important;border-right:0 solid #fff!important}
+baidu.com#$##s_lg_img{display:none}
+baidu.com#$##form{-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both;animation-name:fadeInUp;-webkit-animation-name:fadeInUp;animation-delay:.3s;-webkit-animation-delay:.3s}
+baidu.com#$#.s-p-top{transform:scale(.8);bottom:9px!important}
+baidu.com#$#.mnav{display:none}
+baidu.com#$##u_sp .mnav{display:none}
+baidu.com#$##u1 a.lb{padding:23px;border-radius:50%;font-size:0;position:absolute;right:44px;top:1040%;background-image:url(http://7xt3k7.com2.z0.glb.clouddn.com/log.svg);background-repeat:no-repeat;background-position:center;box-shadow:rgba(0,0,0,.156863) 0 3px 10px,rgba(0,0,0,.227451) 0 3px 10px;transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;line-height:0;z-index:100}
+baidu.com#$##u1 a.lb:hover{transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$##u1 a.lb:active{box-shadow:0 10px 30px rgba(0,0,0,.19),0 6px 10px rgba(0,0,0,.23);transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$##u1 a.pf{background-repeat:no-repeat;background-position:center;font-size:0;padding:14px;opacity:.8;-moz-transition:all .3s ease;-webkit-transition:all .3s ease;-o-transition:all .3s ease;z-index:0}
+baidu.com#$##u1 a.bri{background-color:rgba(0,0,0,0);background-repeat:no-repeat;background-position:center;font-size:0;padding:2px;opacity:.8;-moz-transition:all .3s ease;-webkit-transition:all .3s ease;-o-transition:all .3s ease;border:none;margin-top:12px}
+baidu.com#$##wrapper .bdbriimgtitle{padding-top:23px}
+baidu.com#$##wrapper .bdbri.bdbriimg .bdmainlink a{border:none}
+baidu.com#$##wrapper .bdbri{z-index:2}
+baidu.com#$##u_sp .s_bri{padding:5px;border-radius:50%;font-size:0;width:32px;height:32px;background-image:url(http://7xt3k7.com2.z0.glb.clouddn.com/appbai.svg);background-repeat:no-repeat;background-position:center;box-shadow:rgba(0,0,0,.156863) 0 3px 10px,rgba(0,0,0,.227451) 0 3px 10px;transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-moz-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-webkit-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;-o-transition:all 450ms cubic-bezier(.23,1,.32,1) 0s;line-height:0;z-index:100;margin-right:22px;margin-top:20px}
+baidu.com#$##u_sp .s_bdbriimgtitle{padding-top:73px}
+baidu.com#$##s_usersetting_top{background-repeat:no-repeat;background-position:center;font-size:0;padding:14px;opacity:.8;-moz-transition:all .3s ease;-webkit-transition:all .3s ease;-o-transition:all .3s ease;margin-top:12px;margin-right:4px;z-index:-100}
+baidu.com#$##s_top_wrap{z-index:-10}
+baidu.com#$##u .toindex{display:none!important}
+baidu.com#$##s_username_top{text-decoration:none;margin-top:26px;margin-left:5px;border:none;padding-left:10px;padding-right:10px;border-radius:16px;margin-right:-3px}
+baidu.com#$#.user-name{text-decoration:none!important}
+baidu.com#$#.menu-arrow{display:none!important}
+baidu.com#$#.s_user_name_menu{text-align:center!important}
+baidu.com#$#.s-user-set-menu.menu-top{width:100px}
+baidu.com#$#.s-user-set-menu div{border:none!important;box-shadow:rgba(0,0,0,.156863) 0 3px 10px,rgba(0,0,0,.227451) 0 3px 10px}
+baidu.com#$#.s-user-set-menu{padding-top:0;margin-top:-11px;border-radius:2px!important}
+baidu.com#$#.s-user-set-menu a{padding-left:25px;-moz-transition:all .3s ease;-webkit-transition:all .3s ease;-o-transition:all .3s ease}
+baidu.com#$#.s-user-set-menu a:hover{-moz-transition:all .3s ease;-webkit-transition:all .3s ease;-o-transition:all .3s ease}
+baidu.com#$##user{text-decoration:none!important;margin-top:30px;margin-left:5px;border:none;padding-left:10px;padding-right:10px;border-radius:16px;margin-right:-3px;height:23px;padding-top:8px;-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-fill-mode:both;animation-fill-mode:both;animation-name:bounceInRight;-webkit-animation-name:bounceInRight}
+baidu.com#$#.usermenu{border:none!important;box-shadow:rgba(0,0,0,.156863) 0 3px 10px,rgba(0,0,0,.227451) 0 3px 10px!important;-webkit-box-shadow:rgba(0,0,0,.156863) 0 3px 10px,rgba(0,0,0,.227451) 0 3px 10px!important;width:83px;border-radius:2px!important;top:-7px!important}
+baidu.com#$#.username a{-moz-transition:all .3s ease;-webkit-transition:all .3s ease;-o-transition:all .3s ease;border-radius:2px}
+baidu.com#$#.username a:hover{background:#4879BD!important;-moz-transition:all .3s ease;-webkit-transition:all .3s ease;-o-transition:all .3s ease}
+baidu.com#$#.username a:active{background:#4879BD!important;-moz-transition:all .3s ease;-webkit-transition:all .3s ease;-o-transition:all .3s ease}
+baidu.com#$##user .c-icon{display:none}
+baidu.com#$##imsg{background-repeat:no-repeat;background-position:center;font-size:0;padding:14px;opacity:.8;-moz-transition:all .3s ease;-webkit-transition:all .3s ease;-o-transition:all .3s ease;z-index:0;padding-top:25px;padding-bottom:21px}
+baidu.com#$##imsg:hover{opacity:1}
+baidu.com#$##bds-message-wrapper{top:64px}
+baidu.com#$#.s-mod-msg{box-shadow:rgba(0,0,0,.156863) 0 3px 10px,rgba(0,0,0,.227451) 0 3px 10px!important;-webkit-box-shadow:rgba(0,0,0,.156863) 0 3px 10px,rgba(0,0,0,.227451) 0 3px 10px!important;border-radius:3px}
+baidu.com#$#.msg-btn{border-radius:2px;transition:all 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$#.msg-btn:hover{border-radius:2px;box-shadow:0 1px 6px rgba(0,0,0,.12),0 1px 4px rgba(0,0,0,.12);transition:all 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$#.msg-btn:active{border-radius:2px;box-shadow:rgba(0,0,0,.156863) 0 3px 10px,rgba(0,0,0,.227451) 0 3px 10px!important;-webkit-box-shadow:rgba(0,0,0,.156863) 0 3px 10px,rgba(0,0,0,.227451) 0 3px 10px!important;transition:all 450ms cubic-bezier(.23,1,.32,1) 0s}
+baidu.com#$#.no-use:hover{box-shadow:none!important}
+baidu.com#$#.top-logo img{display:none}
+baidu.com#$#.top-logo{background-image:url(http://7xt3k7.com2.z0.glb.clouddn.com/dmlg.svg);background-repeat:no-repeat;background-position:center;height:100px;width:200px}
+baidu.com#$##u_sp .s_bri{border:0!important}
+baidu.com#$#.pass-text-input{background-image:none!important}
+baidu.com#$#.pass-text-input-focus{background-image:none!important}
+baidu.com#$##passport-login-pop{font-family:Helvetica,"Microsoft Yahei UI";border-radius:2px}
+baidu.com#$##TANGRAM__PSP_2__titleText{font-family:Helvetica,"Microsoft Yahei UI Light"}
+baidu.com#$#.pass-fgtpwd{font-family:Helvetica,"Microsoft Yahei UI"!important}
+baidu.com#$#.pass-sms-btn{font-family:Helvetica,"Microsoft Yahei UI"!important}
+baidu.com#$#.pass-reglink{font-family:Helvetica,"Microsoft Yahei UI"!important}
+baidu.com#$#.tang-foreground{border-radius:2px!important;border:0!important}
+baidu.com#$#.tang-title{border-radius:2px 2px 0 0!important}
+baidu.com#$#.tang-pass-pop-login div.tang-title{border-radius:2px 2px 0 0!important}
+baidu.com#$#.pass-checkbox-input{width:17px;height:17px;border:#e0e0e0 3px solid!important;background-color:#fff!important;box-shadow:none}
+baidu.com#$#.tang-pass-pop-login-color-blue .pass-button:focus{box-shadow:rgba(0,0,0,.156863) 0 3px 10px,rgba(0,0,0,.227451) 0 3px 10px!important;-webkit-box-shadow:rgba(0,0,0,.156863) 0 3px 10px,rgba(0,0,0,.227451) 0 3px 10px!important}
+baidu.com#$#.rrecom-btn-parent{display:none!important}
+baidu.com#$#.s-p-top{bottom:-8px!important}
+baidu.com#$#input[type=text]:focus{border:none!important;border-top:0 solid #fff!important;border-bottom:0 solid #fff!important;border-left:0 solid #fff!important;border-right:0 solid #fff!important}
+baidu.com#$#a[soft_id]{display:none}
+baidu.com#$#.op-soft-btnbox .c-gap-left-small{margin-left:0!important;color:#fff;background-color:#4879BD;padding:7px 15px;border-radius:2px;font-size:14px;transition:all .3s ease}
+baidu.com#$#.op-soft-btnbox .c-gap-left-small:hover{background-color:#7098D0;transition:all .3s ease;box-shadow:0 2px 5px 0 rgba(0,0,0,.16),0 2px 10px 0 rgba(0,0,0,.12)}
+baidu.com#$#.soutu-input-image{top:6px;left:5px}
+baidu.com#$#.op-soft-btnbox a:before{content:"娌℃湁娴佹皳"}
+baidu.com#$##kw{background-color:transparent}
+baidu.com#$#.s-skin-hasbg #kw{box-shadow:0 0 0 rgba(0,0,0,.2)}
+baidu.com#$#.s-skin-hasbg .btn_wr{width:35px}
+baidu.com#$##s_usersetting_top{margin-top:-7px}
+baidu.com#$##s_username_top{margin-top:7px}
+baidu.com#$##u_sp{padding-top:16px}
+baidu.com#$#.ipt_rec{background:0 0;background-image:none}
+baidu.com#$#.ipt_rec:hover{background:0 0;background-image:none}
+baidu.com#$#.ipt_rec:after{display:none;margin-top:50px}
+baidu.com#$#html:after{content:"闈炲父濂斤紝浣犲凡缁忚繛涓婁簡涓浗浜掕仈缃�";position:absolute;padding-left:23px;padding-top:30px;font-family:"Microsoft Yahei UI Light",Segoe UI,Helvetica;font-size:17px;top:10px;left:10px;background-color:#fff;height:58px;width:600px;text-align:-webkit-center;border-radius:2px;box-shadow:rgba(0,0,0,.117647) 0 1px 6px,rgba(0,0,0,.117647) 0 1px 4px}
+baidu.com#$#html:before{background-image:url(http://7xt3k7.com1.z0.glb.clouddn.com/info.svg);content:"";padding:15px;top:37px;left:164px;position:absolute;z-index:100}
+baidu.com#$#.c-showurl{color:#4CAF50}
+baidu.com#$#.op-se-listen-recommend:hover{border-bottom:#4879BD 1.2px solid}
+baidu.com#$#.c-gap-bottom-small a:hover{border-bottom:#4879BD 1.2px solid}
+baidu.com#$#.c-row a:hover{border-bottom:#4879BD 1.2px solid}
+baidu.com#$##rs a:hover{border-bottom:#4879BD 1.2px solid}
+baidu.com#$#.hint_toprq_tips_items a:hover{border-bottom:#4879BD 1.2px solid}
+baidu.com#$#.c:hover{border-bottom:#4879BD 1.2px solid}
+baidu.com#$#em{color:#EA4335}
+baidu.com#$#body{background-color:#F7F7F7}
+baidu.com#$#.s_ipt_wr{background-color:#FFF!important;background:#FFF}
+baidu.com#$#.s_ipt_wr:hover{background-color:#FFF!important;background:#FFF}
+baidu.com#$#.ipthover{background-color:#FFF!important}
+baidu.com#$#.iptfocus{background-color:#fff!important}
+baidu.com#$#.s_btn{background-color:rgba(0,0,0,0)}
+baidu.com#$##head{background-color:#f1f1f1}
+baidu.com#$#.c-border{background-color:#fff}
+baidu.com#$#.c-tabs-nav{background-color:#EEE}
+baidu.com#$#.c-tabs-nav-selected{border-bottom:#F44336 2px solid!important;background-color:#2196F3!important;color:#fff!important}
+baidu.com#$##page a{background:#fff;color:#424242}
+baidu.com#$##page a:hover{background-color:#e0e0e0!important}
+baidu.com#$##page a .pc:hover{background-color:#e0e0e0}
+baidu.com#$##page strong{background-color:#4285F4!important;color:#fff}
+baidu.com#$##page strong .pc{background-color:#4285F4!important}
+baidu.com#$#.pc:hover{background-color:#e0e0e0}
+baidu.com#$##s_tab b{border-bottom:3px #4879BD solid;color:#4879BD}
+baidu.com#$##s_tab{border-bottom:#e0e0e0 1px solid}
+baidu.com#$#.bdpfmenu a:hover{background-color:#4879BD!important}
+baidu.com#$#.setpref:hover{background-color:#4879BD!important}
+baidu.com#$##u .lb{background-color:#4879BD}
+baidu.com#$##u .lb:hover{background-color:#618CC7}
+baidu.com#$##u .lb:active{background-color:#7DA0D0}
+baidu.com#$##bg{background-color:#FFF!important;background:#FFF}
+baidu.com#$##u1 a.lb{background-color:#4879BD}
+baidu.com#$##u1 a.lb:hover{background-color:#618CC7}
+baidu.com#$##u1 a.lb:active{background-color:#7DA0D0}
+baidu.com#$##u_sp .s_bri{background-color:#F44336}
+baidu.com#$##s_username_top{background-color:#e0e0e0}
+baidu.com#$#.s-user-set-menu a:hover{background-color:#4879BD!important}
+baidu.com#$##user{background-color:#e0e0e0}
+baidu.com#$#.msg-setting-btn{background-color:#4879BD!important}
+baidu.com#$#.no-use{background-color:#E5E5E5!important}
+baidu.com#$#.pass-text-input{border-bottom:#e0e0e0 2px solid!important;border-left:#fff 0 solid!important;border-right:#fff 0 solid!important;border-top:#fff 0 solid!important}
+baidu.com#$#.pass-text-input-focus{border-bottom:#4879BD 2px solid!important;border-left:#fff 0 solid!important;border-right:#fff 0 solid!important;border-top:#fff 0 solid!important}
+baidu.com#$#.tang-pass-pop-login-color-blue .pass-button{background-color:#4879BD}
+baidu.com#$#.tang-pass-pop-login-color-blue .pass-button:hover{background-color:#618CC7}
+baidu.com#$##lg{background-image:url(http://7xt3k7.com2.z0.glb.clouddn.com/bdlogo.svg)}
+baidu.com#$#.s_btn{background-image:url(http://7xt3k7.com2.z0.glb.clouddn.com/s.svg)!important}
+baidu.com#$#.s_btn_wr{background-image:url(http://7xt3k7.com2.z0.glb.clouddn.com/s.svg)!important}
+baidu.com#$#.c-icon-tieba{background-image:url(http://7xt3k7.com2.z0.glb.clouddn.com/tieba.svg)}
+baidu.com#$##u .pf{background-image:url(http://7xt3k7.com2.z0.glb.clouddn.com/pf.svg)}
+baidu.com#$##u .lb{background-image:url(http://7xt3k7.com2.z0.glb.clouddn.com/log.svg)}
+baidu.com#$##u1 a.pf{background-image:url(http://7xt3k7.com2.z0.glb.clouddn.com/pf.svg)}
+baidu.com#$##u1 a.bri{background-image:url(http://7xt3k7.com2.z0.glb.clouddn.com/app.svg)}
+baidu.com#$##s_usersetting_top{background-image:url(http://7xt3k7.com2.z0.glb.clouddn.com/pf.svg)}
+baidu.com#$##imsg{background-image:url(http://7xt3k7.com2.z0.glb.clouddn.com/msg.svg)}
+@@||baike.baidu.com$elemhide
+@@||map.baidu.com$elemhide
+@@||wenku.baidu.com$elemhide

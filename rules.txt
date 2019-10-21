@@ -1,0 +1,78 @@
+[Adblock Plus 2.0]
+! Version: 2017091101
+! Title:  补充规则[2017091101]
+!乐视
+|http://ark.letv.com/s?ark=*&ct=$redirect=http://ark.letv.com/s?ark=0
+|http://apple.www.letv.com/
+||dc.letv.com/
+||webp2p.letv.com
+||letvimg.com/$object-subrequest
+||letvimg.com/gugwl/201*.jpg
+letv.com##div.H-tg,div#egg.egg,div#j-adr-playBT,div[id^="JS_AD_M_P_Banner"],div[id^="a_column_banner_0"],div[id^="JS_H_ad_"].Banner,div.column.Ad,div.pai_bar[data-itemhldr="a"],div[name="words_psmall"],.banner_ad,div.ad_layer
+cloud.letv.com##div#ad_show_box
+!爱奇艺
+iqiyi.com###flashbox > DIV.pw-video:last-child > DIV:last-child > DIV:last-child
+!@@.com/videos/other/201
+!@@http://cache.video.qiyi.com/crossdomain.xml
+!@@http://data.video.qiyi.com/crossdomain.xml
+!/*/videos/other/201*$domain=iqiyi.com,third-party,bcount=2
+!/\.[0-9]\/crossdomain/$domain=iqiyi.com,third-party
+!/\.[0-7][0-9]\/crossdomain/$domain=iqiyi.com,third-party
+!@@http://www.qiyipic.com/crossdomain.xml
+!@@http://meta.video.qiyi.com/crossdomain.xml
+!iqiyi.com#@%#if (document.cookie.indexOf("player_forcedType=h5_VOD")==-1){document.cookie='player_forcedType=h5_VOD'};
+!iqiyi.com#%#if (document.cookie.indexOf("player_forcedType=flash_VOD")==-1){document.cookie='player_forcedType=flash_VOD'};
+!其他
+k73.com###g-container
+btbtt.co##.width.imgs_1
+||btbtt.co/view/image/QT_9198.jpg$domain=btbtt.co
+!google
+||googletagmanager.com^
+!sohutv
+|http://api.my.tv.sohu.com/wm/getads.do?
+|http://count.vrs.sohu.com/crossdomain.xml
+|http://images.sohu.com/ytv/*.mp4
+|http://images.sohu.com/ytv/*.swf
+|http://mfiles.sohu.com/tv/csad/
+|http://newflv.sohu.ccgslb.net/113/*&prod=rtb
+||aty.sohu.com/m^
+||adnet.sohu.com
+||data.vod.itc.cn/?new=*.mp4|
+||data.vod.itc.cn/*prod=ad&new=*.mp4
+||data.vod.itc.cn/?prod=rtb&new=*.mp4
+||images.sohu.com/bill/
+||images.sohu.com/cs/
+||images.sohu.com/ytv/*.jpg|$image
+||sohu.com.cn/ppp/bms/bms.popup.
+||sohu.com/adgtr/
+||info.lm.tv.sohu.com^$domain=gezila.com
+||pinglun.sohu.com/sogouad.html
+@@|http://images.sohu.com/bill/default/wei/wei_v1.4.js$script
+@@|http://v.aty.sohu.com/ct?vid=
+!17173
+v.17173.com##.ad-lt
+v.17173.com##.ad-rt
+!cnbeta
+cnbeta.com##DIV>DIV:contains(帮助cnBeta.COM更好地生产内容)
+cnbeta.com##.article-global:contains([广告])
+cnbeta.com###cb_share
+cnbeta.com##.item.cooperation
+!baidu网盘
+pan.baidu.com#%#(function(){'use strict';try{Object.defineProperty(navigator,'platform',{get:function(){return'Android'}})}catch(e){}if(navigator.platform!='Android'){try{navigator.__defineGetter__('platform',function(){return'Android'})}catch(e){}if(navigator.platform!='Android'){}}})();
+!tieba
+tieba.baidu.com###video_frs_head
+!163
+163.com##.mod_r_ad.mod_r_ad1.mt20
+163.com##.ad_hover_href
+163.com##.kaola_ad
+163.com##.mod_r_ad.mt20
+!sohu
+sohu.com###god_promotion_1
+sohu.com##li:contains(广告)
+!sina
+sina.com.cn##div>ui:contains(广告)
+!baidu
+baidu.com###content_left>div:has(a:contains(https://www.kafan.cn/edu/))
+baidu.com###content_left>div:has(a:contains(https://www.kafan.cn/category/))
+!ifeng
+||p1.ifengimg.com/*/swjx300x600.html

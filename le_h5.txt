@@ -1,0 +1,5 @@
+[Adblock Plus 2.0]
+! Version: 20170627000
+! Title:  乐视html5播放器规则[20170627000]
+! Email: yiclear@aliyun.com
+! Homepage: http://www.yiclear.com
